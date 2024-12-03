@@ -1,0 +1,16 @@
+nev:iranyitoszam:lakossag:alapitasDatuma:megye
+Melycsontatomtorony:5987:16973:23/12/1587:Kozepes
+Alsomucsates:8051:8842:28/05/1610:Also
+Melykararezfold:2131:5797:21/11/1646:Kis
+Jaszto:2671:8854:28/02/1893:Kozepes
+Hodvertes:5939:17993:07/07/1942:Kozepes
+Uttrollmagocs:2527:4120:01/12/1606:Nagy
+Sioborosmihalyszegi:8886:11683:08/04/1637:Felso
+Kovacspakoladany:6389:15368:06/08/1936:Nagy
+Holtmedgyesgerendas:2882:11483:22/01/1942:Also
+Szamurajubultaktakaros:6262:9052:22/05/1990:Nagy
+Pusztagerendas:8847:10257:05/03/1601:Kozepes
+Szegfo:5334:4725:24/06/1650:Nagy
+Kisrohampalkonya:7346:10627:11/09/1736:Kis
+Fejszegipszmihalyors:4662:29210:08/12/1745:Kis
+Bivalyharkany:3196:22984:24/07/1826:Nagy

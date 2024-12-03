@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"hu.unideb.inf.service","l":"JsonReaderService"},{"p":"hu.unideb.inf.core","l":"Main"},{"p":"hu.unideb.inf.model","l":"Tree"},{"p":"hu.unideb.inf.model","l":"TreeListHolder"}];updateSearchResults();

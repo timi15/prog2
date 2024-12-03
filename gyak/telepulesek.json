@@ -1,0 +1,109 @@
+{
+  "adatok": [
+    {
+      "nev": "Melycsontatomtorony",
+      "iranyitoszam": "5987",
+      "lakossag": "16973",
+      "alapitasDatuma":"23/12/1587",
+      "megye": "Kozepes"
+    },
+    {
+      "nev": "Alsomucsates",
+      "iranyitoszam": "8051",
+      "lakossag": "8842",
+      "alapitasDatuma":"28/05/1610",
+      "megye": "Also"
+    },
+    {
+      "nev": "Melykararezfold",
+      "iranyitoszam": "2131",
+      "lakossag": "5797",
+      "alapitasDatuma":"21/11/1646",
+      "megye": "Kis"
+    },
+    {
+      "nev": "Jaszto",
+      "iranyitoszam": "2671",
+      "lakossag": "8854",
+      "alapitasDatuma":"28/02/1893",
+      "megye": "Kozepes"
+    },
+    {
+      "nev": "Hodvertes",
+      "iranyitoszam": "5939",
+      "lakossag": "17993",
+      "alapitasDatuma":"07/07/1942",
+      "megye": "Kozepes"
+    },
+    {
+      "nev": "Uttrollmagocs",
+      "iranyitoszam": "2527",
+      "lakossag": "4120",
+      "alapitasDatuma":"01/12/1606",
+      "megye": "Nagy"
+    },
+    {
+      "nev": "Sioborosmihalyszegi",
+      "iranyitoszam": "8886",
+      "lakossag": "11683",
+      "alapitasDatuma":"08/04/1637",
+      "megye": "Felso"
+    },
+    {
+      "nev": "Kovacspakoladany",
+      "iranyitoszam": "6389",
+      "lakossag": "15368",
+      "alapitasDatuma":"06/08/1936",
+      "megye": "Nagy"
+    },
+    {
+      "nev": "Holtmedgyesgerendas",
+      "iranyitoszam": "2882",
+      "lakossag": "11483",
+      "alapitasDatuma":"22/01/1942",
+      "megye": "Also"
+    },
+    {
+      "nev": "Szamurajubultaktakaros",
+      "iranyitoszam": "6262",
+      "lakossag": "9052",
+      "alapitasDatuma":"22/05/1990",
+      "megye": "Nagy"
+    },
+    {
+      "nev": "Pusztagerendas",
+      "iranyitoszam": "8847",
+      "lakossag": "10257",
+      "alapitasDatuma":"05/03/1601",
+      "megye": "Kozepes"
+    },
+    {
+      "nev": "Szegfo",
+      "iranyitoszam": "5334",
+      "lakossag": "4725",
+      "alapitasDatuma":"24/06/1650",
+      "megye": "Nagy"
+    },
+    {
+      "nev": "Kisrohampalkonya",
+      "iranyitoszam": "7346",
+      "lakossag": "10627",
+      "alapitasDatuma":"11/09/1736",
+      "megye": "Kis"
+    },
+    {
+      "nev": "Fejszegipszmihalyors",
+      "iranyitoszam": "4662",
+      "lakossag": "29210",
+      "alapitasDatuma":"08/12/1745",
+      "megye": "Kis"
+    },
+    {
+      "nev": "Bivalyharkany",
+      "iranyitoszam": "3196",
+      "lakossag": "22984",
+      "alapitasDatuma":"24/07/1826",
+      "megye": "Nagy"
+    }
+  ]
+}

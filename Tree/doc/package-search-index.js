@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"hu.unideb.inf.core"},{"l":"hu.unideb.inf.model"},{"l":"hu.unideb.inf.service"}];updateSearchResults();

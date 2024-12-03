@@ -1,0 +1,39 @@
+{
+  "adatok": [
+    {
+      "nev": "tölgyfa",
+      "magassagMeterben": "15",
+      "korEvben": "120",
+      "besorolas": "erdő",
+      "ar": "5000"
+    },
+    {
+      "nev": "fenyőfa",
+      "magassagMeterben": "20",
+      "korEvben": "80",
+      "besorolas": "park",
+      "ar": "8000"
+    },
+    {
+      "nev": "nyírfa",
+      "magassagMeterben": "12",
+      "korEvben": "40",
+      "besorolas": "park",
+      "ar": "4500"
+    },
+    {
+      "nev": "bükkfa",
+      "magassagMeterben": "18",
+      "korEvben": "100",
+      "besorolas": "erdő",
+      "ar": "6000"
+    },
+    {
+      "nev": "ciprus",
+      "magassagMeterben": "25",
+      "korEvben": "50",
+      "besorolas": "kert",
+      "ar": "9000"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+hotelName;rooms;availableRooms;bookedRooms
+Sunny Hotel;12;3;9
+Heaven Hotel;20;12;8
+Honey Hotel;31;21;9

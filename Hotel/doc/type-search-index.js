@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"hu.unideb.inf","l":"Hotel"},{"p":"hu.unideb.inf","l":"Main"}];updateSearchResults();
